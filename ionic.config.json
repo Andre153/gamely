@@ -1,5 +1,6 @@
 {
   "name": "gamely",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "b50232bc",
+  "type": "ionic-angular",
+  "integrations": {}
 }
